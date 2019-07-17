@@ -8,3 +8,6 @@ One must also install linkedin_scraper:
         
         pip install --user linkedin_scraper 
  
+To run:
+        
+        LiExp('linkeinURL').li_login_scrape()
