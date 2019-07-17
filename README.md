@@ -10,4 +10,4 @@ One must also install linkedin_scraper:
  
 To run:
         
-        LiExp('linkeinURL').li_login_scrape()
+        LiExp('linkedinURL').li_login_scrape()
